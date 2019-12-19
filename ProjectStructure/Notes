@@ -1,0 +1,28 @@
+Create Notes
+new file > empty(Notes)
+Copy content from old notes
+
+Select Appdelegate, Viewcontroller, Main.storybroad, LaunchScreen
+New group from selection(MVC)
+
+Select Viewcontroller
+New group from selection(Controller)
+
+Select Main.storybroad, LaunchScreen
+New group from selection(View)
+
+Create new group called (Model) inside MVC
+
+Select Assets, info.plist
+New group from selection(SupportingFiles)
+
+Run the project
+if error: projectName > Target > General
+
+How to clone from GitHub
+Xcode > SourceControl > Clone > SelectProject > Clone
+SelectFolder > Sagarika > MyProjects > Clone
+Drag the files of the project from desktop to above path
+Click on project and open it > sourcecontrol > commit > select all files
+> commit message > push to remote > (commit and push)
+
